@@ -1,16 +1,28 @@
-# adstacks_1
+# Adstacks Dashboard
 
-A new Flutter project.
+Flutter dashboard visualizing Adstacks data with interactive charts and tables.
+
+## Features
+
+*   Interactive charts (line, markers)
+*   Data tables (creators, projects)
+*   Responsive, modern UI
+
+## Technologies
+
+*   Flutter
+*   `syncfusion_flutter_charts`
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1.  `git clone [repo-url]`
 
-A few resources to get you started if this is your first Flutter project:
+2.  `cd adstacks-dashboard`
+3.  `flutter pub get`
+4.  `flutter run`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## ScreenShots
+
+![Screenshot 2025-01-31 000319](https://github.com/user-attachments/assets/31c0721f-8319-4d57-9b2e-9f5d3a9b8629)
